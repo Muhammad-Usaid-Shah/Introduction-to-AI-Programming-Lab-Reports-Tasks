@@ -1,7 +1,7 @@
 # Introduction-to-AI-Programming-Lab-Reports-Tasks
 # 👋 Hi, I'm Muhammad Usaid Shah
 
-🎓 **Student | Python Developer (Learning) | Aspiring AI Engineer**
+🎓 **Student | Python Developer (Learning) | Aspiring Electrical Engineer (Comp & AI)**
 
 Welcome to my GitHub profile!  
 I am a passionate student learning **Python programming** and working toward my dream of becoming an **AI developer**. I enjoy building projects, learning new technologies, and improving my problem-solving skills step by step.
